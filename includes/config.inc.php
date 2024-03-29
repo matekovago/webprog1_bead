@@ -1,4 +1,7 @@
 <?php
+
+$style="./styles/style.css";
+
 $oldalak= array( 
     '/'=> array('fajl'=> 'cim', 'szoveg'=>'Címplap'),
     'kapcsolat' => array('fajl'=> 'kapcsolat', 'szoveg'=>'Kapcsolat'),
